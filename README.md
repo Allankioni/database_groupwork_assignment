@@ -146,16 +146,42 @@ Execute `bookstore_queries.sql` to test the database functionality:
 ```sql
 source bookstore_queries.sql;
 ```
-This file contains various SQL commands to test:
-- Table relationships
-- Data integrity
-- Role-based permissions
-- Complex queries and views
+The `bookstore_queries.sql` file contains a comprehensive set of SQL queries for testing and analyzing the database:
+
+1. **Basic Book Information**
+   - View all books with their authors, publishers, prices, and stock levels
+   - Helps verify book catalog integrity
+
+2. **Customer Orders**
+   - Display order details with customer information and status
+   - Track shipping methods and costs
+
+3. **Order Management**
+   - Detailed order information including items and prices
+   - Order history tracking with status changes
+
+4. **Customer Data**
+   - Customer address management
+   - Multiple shipping locations support
+
+5. **Inventory Management**
+   - Low stock alerts (books with less than 30 copies)
+   - Stock level monitoring by publisher
+
+6. **Business Analytics**
+   - Sales analysis by book
+   - Customer spending patterns
+   - Shipping method usage statistics
+   - Book language distribution
+
+Refer to the `database_diagram.drawio` file for a visual representation of table relationships.
 
 ## Database Structure and Relationships
 
 ### Visual Representation
-The `database_diagram.drawio` file provides a comprehensive visual representation of:
+[![Database Diagram](database_diagram.drawio.svg)](database_diagram.drawio.svg)
+
+Click the diagram above to view the full-size SVG. This comprehensive visual representation shows:
 - Table structures and relationships
 - Primary and foreign key connections
 - Data flow between entities
@@ -175,3 +201,34 @@ The `database_diagram.drawio` file provides a comprehensive visual representatio
 - Monitor order history for tracking
 - Maintain accurate inventory counts
 - Use views for simplified data access
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Oongekem">
+                    <img src="https://avatars.githubusercontent.com/u/189024612?v=4" width="100;" alt="EdnahOongekem"/>
+                    <br />
+                    <sub><b>EdnahOongekem</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/lonyamasi">
+                    <img src="https://avatars.githubusercontent.com/u/147608409?v=4" width="100;" alt="lonyamasi"/>
+                    <br />
+                    <sub><b>Lynda Onyamasi</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Allankioni">
+                    <img src="https://avatars.githubusercontent.com/u/80405994?v=4" width="100;" alt="AllanKioni"/>
+                    <br />
+                    <sub><b>AllanKioni</b></sub>
+                </a>
+            </td>
+		</tr>
+	</tbody>
+</table>
