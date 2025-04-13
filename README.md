@@ -208,6 +208,13 @@ Click the diagram above to view the full-size SVG. This comprehensive visual rep
 <table>
 	<tbody>
 		<tr>
+	    <td align="center">
+                <a href="https://github.com/Allankioni">
+                    <img src="[https://avatars.githubusercontent.com/u/80405994?v=4](https://avatars.githubusercontent.com/u/200734255?v=4)" width="100;" alt="AllanKioni"/>
+                    <br />
+                    <sub><b>AllanKioni</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Oongekem">
                     <img src="https://avatars.githubusercontent.com/u/189024612?v=4" width="100;" alt="EdnahOongekem"/>
@@ -220,13 +227,6 @@ Click the diagram above to view the full-size SVG. This comprehensive visual rep
                     <img src="https://avatars.githubusercontent.com/u/147608409?v=4" width="100;" alt="lonyamasi"/>
                     <br />
                     <sub><b>Lynda Onyamasi</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Allankioni">
-                    <img src="https://avatars.githubusercontent.com/u/80405994?v=4" width="100;" alt="AllanKioni"/>
-                    <br />
-                    <sub><b>AllanKioni</b></sub>
                 </a>
             </td>
 		</tr>
