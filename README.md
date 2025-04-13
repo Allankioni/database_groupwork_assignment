@@ -210,7 +210,7 @@ Click the diagram above to view the full-size SVG. This comprehensive visual rep
 		<tr>
 	    <td align="center">
                 <a href="https://github.com/Allankioni">
-                    <img src="[https://avatars.githubusercontent.com/u/80405994?v=4](https://avatars.githubusercontent.com/u/200734255?v=4)" width="100;" alt="AllanKioni"/>
+                    <img src="https://avatars.githubusercontent.com/u/200734255?v=4" width="100;" alt="AllanKioni"/>
                     <br />
                     <sub><b>AllanKioni</b></sub>
                 </a>
