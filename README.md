@@ -223,10 +223,10 @@ Click the diagram above to view the full-size SVG. This comprehensive visual rep
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/lonyamasi">
-                    <img src="https://avatars.githubusercontent.com/u/147608409?v=4" width="100;" alt="lonyamasi"/>
+                <a href="https://github.com/Wairimu2623/Wairimu2623">
+                    <img src="https://avatars.githubusercontent.com/u/147608409?v=4" width="100;" alt="Wairimu2623"/>
                     <br />
-                    <sub><b>Lynda Onyamasi</b></sub>
+                    <sub><b>Wairimu2623</b></sub>
                 </a>
             </td>
 		</tr>
